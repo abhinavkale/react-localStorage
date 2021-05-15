@@ -11,7 +11,7 @@ The localStorage **object** stores data with no expiration date. The data will n
 
 **READING** data from localStorage:
 ```javaScript
-  var lastname = localStorage.getItem("key");
+  var name = localStorage.getItem("key");
 ```
 
 **REMOVING** data from localStorage:
